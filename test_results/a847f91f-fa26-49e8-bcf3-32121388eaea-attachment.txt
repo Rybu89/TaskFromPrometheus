@@ -1,0 +1,6 @@
+
+___Input email: test_protei.ru
+
+___Input name: Boris Pulia
+
+___Click Add button.

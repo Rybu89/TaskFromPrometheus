@@ -1,0 +1,6 @@
+
+___Input email: 
+
+___Input password: test
+
+___Click input button.

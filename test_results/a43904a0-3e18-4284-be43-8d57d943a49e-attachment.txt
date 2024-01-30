@@ -1,0 +1,14 @@
+
+___Input email: test@protei.ru
+
+___Input name: Boris Pulia
+
+___Select gender woman.
+
+___Click checkbox Вариант 1.1.
+
+___Click radio_button Вариант 2.2.
+
+___Click Add button.
+
+___Click Ok in button modal window.

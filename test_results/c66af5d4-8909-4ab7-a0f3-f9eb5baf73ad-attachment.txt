@@ -1,0 +1,8 @@
+
+___Click radio_button Вариант 2.1.
+
+___Click radio_button Вариант 2.2.
+___Checking default status radiobuttons. __PASSED
+___Checking status change radiobuttons. __PASSED
+
+FINISH

@@ -1,0 +1,8 @@
+
+___Input email: test@proteiru
+
+___Input name: Boris Pulia
+
+___Click Add button.
+
+___Click Ok in button modal window.

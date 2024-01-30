@@ -1,0 +1,6 @@
+
+___Input email: /^[^-]+?@.+?$/
+
+___Input name: Boris Pulia
+
+___Click Add button.

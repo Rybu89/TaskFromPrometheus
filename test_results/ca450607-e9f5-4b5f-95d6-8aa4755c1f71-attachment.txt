@@ -1,0 +1,6 @@
+
+___Input email: test@proteiru
+
+___Input password: test
+
+___Click input button.

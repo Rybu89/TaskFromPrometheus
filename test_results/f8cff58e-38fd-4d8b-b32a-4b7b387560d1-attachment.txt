@@ -1,0 +1,6 @@
+
+___Input email: test_protei.ru
+
+___Input password: test
+
+___Click input button.

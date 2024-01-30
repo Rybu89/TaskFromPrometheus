@@ -1,0 +1,8 @@
+
+___Input email: test@protei.ru
+
+___Input name: 1234
+
+___Click Add button.
+
+___Click Ok in button modal window.

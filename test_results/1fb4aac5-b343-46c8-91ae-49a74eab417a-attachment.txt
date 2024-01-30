@@ -1,0 +1,9 @@
+
+START
+___Open page: file:///C:/Users/79531/Downloads/qa-test%20(2).html
+
+___Input email: test
+
+___Input password: test
+
+___Click input button.
